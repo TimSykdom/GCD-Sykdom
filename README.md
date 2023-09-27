@@ -110,3 +110,4 @@ Exemple de Quête et d’Objectifs Annexes :
 ![concept_env2](concept%20enviro2.png)
 ![env](enviroprops%20%20concept.png)
 ![grimoir](grimoire.png)
+![Chara design 5 perso](Chara%design%5%perso.png)
