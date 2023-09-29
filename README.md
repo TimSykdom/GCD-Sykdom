@@ -1,6 +1,6 @@
 # GCD - Skydom
 
-Eva - Paul - Tanguy - Sarah - Maxence
+Eva - Paul - Tanguy - Sarah - Maxence.
 
 ## Histoire
 
